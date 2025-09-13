@@ -69,7 +69,7 @@ Run the Streamlit dashboard
 
 
 streamlit run dashboard.py
-📊 Sample Dashboard
+### 📊 Sample Dashboard
 Personnel Distribution by Role
 
 Training Effectiveness Reports
@@ -78,14 +78,14 @@ Risk Heatmap for Units
 
 Readiness Scores Over Time
 
-🔒 Security
+### 🔒 Security
 Secure authentication (JWT or role-based access)
 
 Data validation & sanitization
 
 HTTPS-ready deployment
 
-📌 Future Enhancements
+### 📌 Future Enhancements
 Integration with real-time IAF HR databases
 
 Predictive analytics for attrition and readiness
@@ -94,5 +94,6 @@ Mobile application for on-the-go access
 
 AI chat assistant for personnel queries
 
-🤝 Contributing
+### 🤝 Contributing
+
 Contributions are welcome! Please fork this repo and create a pull request with detailed explanations of your changes.
